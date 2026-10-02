@@ -1,6 +1,5 @@
-.vscode
-FILE_1
-tempCodeRunnerFile*
+.vscode/
 *.out
 *.exe
-.DS_Store
+*.dSYM/
+tempCodeRunnerFile*
