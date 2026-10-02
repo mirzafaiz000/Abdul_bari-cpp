@@ -1,0 +1,7 @@
+# Ignore all compiled output binaries automatically
+*.out
+*.exe
+*.o
+*.dSYM/
+.vscode/
+tempCodeRunnerFile*
