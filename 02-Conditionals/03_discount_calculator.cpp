@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     float bill_amount,final_amount;
-    cout<<"Enter the bill amount :";
+    cout<<"Enter the bill amount : ";
     cin>>bill_amount;
     if(bill_amount>=500)
     {
