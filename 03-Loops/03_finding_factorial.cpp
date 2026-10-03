@@ -2,13 +2,13 @@
 using namespace std;
 int main()
 {
-    int sum=0,n,i;
+    int f=1,n,i;
     cout<<"Enter a number : ";
     cin>>n;
     for(i=1;i<=n;i++)
     {
-        sum+=i;
+        f*=i;
     }
-    cout<<sum<<endl;
+    cout<<"Factorial of "<<n<<" = "<<f<<endl;
     return 0;
 }
