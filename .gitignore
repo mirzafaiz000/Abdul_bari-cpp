@@ -5,3 +5,4 @@
 *.dSYM/
 .vscode/
 tempCodeRunnerFile*
+**/.DS_Store
