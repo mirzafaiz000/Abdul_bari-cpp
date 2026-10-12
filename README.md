@@ -18,5 +18,3 @@ Run the following commands in your terminal to compile and execute any `.cpp` fi
 ```bash
 g++ 02-Conditionals/leap_year.cpp -o leap_year
 ./leap_year
-
-- Oct 11: Solved polar curves & curvature practice set.

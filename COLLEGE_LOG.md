@@ -1,0 +1,1 @@
+- Oct 11: Solved polar curves & curvature practice set.
