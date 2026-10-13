@@ -1,1 +1,3 @@
-- Oct 11: Solved polar curves & curvature practice set.
+- Oct 11: Solved polar curves & curvature practice set
+- Oct 12: Solved multivariable calculus
+- Oct 13: Sustainable chemistry for enerygy devices && Corrosion science and chemical sensors 
