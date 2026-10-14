@@ -1,2 +1,3 @@
 - Oct 12: Solved polar curves && multivariable calculus
 - Oct 13: Sustainable chemistry for enerygy devices && Corrosion science and chemical sensors
+- Oct 14: Semiconductor Diodes, Power Supplies and Amplifiers && Bipolar Junction Transistor && Boolean Algebra and Logic Circuits
