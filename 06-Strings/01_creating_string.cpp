@@ -8,7 +8,7 @@ int main()
     char a[]={'H','e','l','l','o','\0'};
     char B[]={'H','e','l','l','o','\0','o','g'};
     char b[]={72,101,108,108,111,0,80,65,96};
-    char *P="Hello";
+    const char *P="Hello";
     string p="Hello";
 
     cout<<S<<endl;
