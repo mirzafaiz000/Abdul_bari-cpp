@@ -22,7 +22,7 @@ int main()
 
     cout<<s1<<endl<<s2<<endl;
     cout<<s1.at(4)<<endl;
-    cout<<s1[4]<<endl;
+    cout<<s1[4]<<endl;      //s1[4]='A'
     cout<<s1.front()<<endl;
     cout<<s1.back()<<endl;
     cout<<s1+s2<<endl;
