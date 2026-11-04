@@ -10,7 +10,7 @@ public:
     }
     Base(int x)
     {
-        cout<<"Default of base "<<x<<endl;
+        cout<<"Param of base "<<x<<endl;
     }
 };
 
@@ -23,7 +23,7 @@ public:
     }
     Derived(int x)
     {
-        cout<<"Default of derived "<<x<<endl;
+        cout<<"Param of derived "<<x<<endl;
     }
 };
 
