@@ -1,5 +1,6 @@
 #include <iostream>
 #include <exception>
+#include <string>
 using namespace std;
 
 class Exception1:public exception
