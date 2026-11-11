@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     ifstream f("My.txt");   
-    if(f.is_open()) cout<<"File iscopened"<<endl;       //ifstream f;
+    if(f.is_open()) cout<<"File is opened"<<endl;       //ifstream f;
     string name;                                        //f.open("My.txt")
     int roll;
     string branch;
