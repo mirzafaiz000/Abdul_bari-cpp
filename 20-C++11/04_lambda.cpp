@@ -15,7 +15,7 @@ int main()
     int b=10;
     [b](){cout<<b<<endl;}();
 
-    auto f=[b](){cout<<b<<endl;};
+    auto f=[b](){cout<<b<<endl;};   //&a=a
     f();
 
     return 0;
