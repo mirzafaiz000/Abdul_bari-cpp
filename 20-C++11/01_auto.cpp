@@ -10,5 +10,6 @@ int main()
 	double d=12.3f;
 	int i=9;
 	auto x=2*d+i;
-	cout<<x<<endl;;
+	cout<<x<<endl;
+    return 0;
 }
