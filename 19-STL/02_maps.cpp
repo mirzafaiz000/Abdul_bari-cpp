@@ -15,5 +15,11 @@ int main()
     {
         cout<<itr->first<<" "<<itr->second<<endl;
     }
+
+    map<int,string>::iterator itr1;
+    itr1=m.find(10);
+    cout<<"Value found is = ";
+    cout<<itr1->first<<" "<<itr1->second<<endl;
+
     return 0;
 }
