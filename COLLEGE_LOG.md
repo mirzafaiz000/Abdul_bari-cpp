@@ -2,3 +2,4 @@
 - Oct 13: Sustainable chemistry for enerygy devices && Corrosion science and chemical sensors
 - Oct 14: Semiconductor Diodes, Power Supplies and Amplifiers && Bipolar Junction Transistor && Boolean Algebra and Logic Circuits
 - Oct 15: Practicing python && english 
+- Nov 13: Studying for chemistry practical examination
