@@ -5,3 +5,4 @@
 - Nov 13: Studying for chemistry practical examination
 - Nov 14: Studying for python practical examination
 - Nov 15: Completing Chemistry Assignment
+- Nov 16: Completing Constitution Assignment
