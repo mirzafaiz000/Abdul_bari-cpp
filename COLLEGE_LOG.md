@@ -8,3 +8,4 @@
 - Nov 16: Completing Constitution Assignment
 - Nov 17: Completing Electronics Assignment
 - Nov 18: Completing Maths Assignment
+- Nov 19: Completing CAED Lab Manual
