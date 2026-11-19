@@ -9,3 +9,4 @@
 - Nov 17: Completing Electronics Assignment
 - Nov 18: Completing Maths Assignment
 - Nov 19: Completing CAED Lab Manual
+- Nov 20: Studying for CAED practical examination
