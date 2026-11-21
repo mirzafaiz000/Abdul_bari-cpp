@@ -10,3 +10,4 @@
 - Nov 18: Completing Maths Assignment
 - Nov 19: Completing CAED Lab Manual
 - Nov 20: Studying for CAED practical examination
+- Nov 21: Studying Infosys springboard
