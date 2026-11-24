@@ -13,3 +13,4 @@
 - Nov 21: Studying Infosys springboard
 - Nov 22: Completing Python Assignment
 - Nov 23: Completing IDT Assignment
+- Nov 24: Preparing for Constituition Presentation
