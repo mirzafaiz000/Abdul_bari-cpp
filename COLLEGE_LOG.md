@@ -14,3 +14,4 @@
 - Nov 22: Completing Python Assignment
 - Nov 23: Completing IDT Assignment
 - Nov 24: Preparing for Constituition Presentation
+- Nov 25: Completing Nasscom course
